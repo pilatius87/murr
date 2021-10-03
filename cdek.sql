@@ -1,0 +1,3 @@
+SELECT *
+FROM metrics
+LIMIT 100
